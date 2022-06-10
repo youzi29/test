@@ -1,5 +1,6 @@
 <template>
   <a-config-provider :locale="locale">
+<div>test</tets>
   <div id="app">
     <keep-alive>
     <router-view />
